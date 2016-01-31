@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: c86356ced76f9f341858fc6d65fc5f2d
+timeCreated: 1454173572
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: ground
+    100004: pillar1
+    100006: pillar2
+    100008: pillar3
+    100010: pillar4
+    100012: pillar5
+    100014: pillars
+    100016: plateu
+    100018: //RootNode
+    100020: platform
+    100022: ring1
+    100024: rocks
+    100026: stairs
+    400000: CINEMA_4D_Editor
+    400002: ground
+    400004: pillar1
+    400006: pillar2
+    400008: pillar3
+    400010: pillar4
+    400012: pillar5
+    400014: pillars
+    400016: plateu
+    400018: //RootNode
+    400020: platform
+    400022: ring1
+    400024: rocks
+    400026: stairs
+    2300000: ground
+    2300002: pillar1
+    2300004: pillar2
+    2300006: pillar3
+    2300008: pillar4
+    2300010: pillar5
+    2300012: plateu
+    2300014: platform
+    2300016: ring1
+    2300018: rocks
+    2300020: stairs
+    3300000: ground
+    3300002: pillar1
+    3300004: pillar2
+    3300006: pillar3
+    3300008: pillar4
+    3300010: pillar5
+    3300012: plateu
+    3300014: platform
+    3300016: ring1
+    3300018: rocks
+    3300020: stairs
+    4300000: platform
+    4300002: stairs
+    4300004: ring1
+    4300006: pillar1
+    4300008: pillar2
+    4300010: pillar3
+    4300012: pillar4
+    4300014: pillar5
+    4300016: rocks
+    4300018: ground
+    4300020: plateu
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

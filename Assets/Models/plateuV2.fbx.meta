@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 3c2fab50dc0a67141ae6a7064e8a4f67
+timeCreated: 1454191400
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arches
+    100002: ball
+    100004: ball_2
+    100006: ball_3
+    100008: ball_4
+    100010: ball_5
+    100012: CINEMA_4D_Editor
+    100014: Cylinder
+    100016: Cylinder_2
+    100018: Cylinder_3
+    100020: Cylinder_4
+    100022: Cylinder_5
+    100024: ground
+    100026: pillars
+    100028: plateu
+    100030: //RootNode
+    100032: platform
+    100034: ring1
+    100036: rocks
+    100038: rocks_2
+    100040: rocks_3
+    100042: rocks_4
+    100044: rocks_5
+    100046: rocks_6
+    100048: rocks_7
+    100050: spheres
+    100052: stairs
+    400000: arches
+    400002: ball
+    400004: ball_2
+    400006: ball_3
+    400008: ball_4
+    400010: ball_5
+    400012: CINEMA_4D_Editor
+    400014: Cylinder
+    400016: Cylinder_2
+    400018: Cylinder_3
+    400020: Cylinder_4
+    400022: Cylinder_5
+    400024: ground
+    400026: pillars
+    400028: plateu
+    400030: //RootNode
+    400032: platform
+    400034: ring1
+    400036: rocks
+    400038: rocks_2
+    400040: rocks_3
+    400042: rocks_4
+    400044: rocks_5
+    400046: rocks_6
+    400048: rocks_7
+    400050: spheres
+    400052: stairs
+    2300000: arches
+    2300002: ball
+    2300004: ball_2
+    2300006: ball_3
+    2300008: ball_4
+    2300010: ball_5
+    2300012: Cylinder
+    2300014: Cylinder_2
+    2300016: Cylinder_3
+    2300018: Cylinder_4
+    2300020: Cylinder_5
+    2300022: ground
+    2300024: plateu
+    2300026: platform
+    2300028: ring1
+    2300030: rocks
+    2300032: rocks_3
+    2300034: rocks_4
+    2300036: rocks_5
+    2300038: rocks_6
+    2300040: rocks_7
+    2300042: stairs
+    3300000: arches
+    3300002: ball
+    3300004: ball_2
+    3300006: ball_3
+    3300008: ball_4
+    3300010: ball_5
+    3300012: Cylinder
+    3300014: Cylinder_2
+    3300016: Cylinder_3
+    3300018: Cylinder_4
+    3300020: Cylinder_5
+    3300022: ground
+    3300024: plateu
+    3300026: platform
+    3300028: ring1
+    3300030: rocks
+    3300032: rocks_3
+    3300034: rocks_4
+    3300036: rocks_5
+    3300038: rocks_6
+    3300040: rocks_7
+    3300042: stairs
+    4300000: arches
+    4300002: platform
+    4300004: stairs
+    4300006: ring1
+    4300008: rocks
+    4300010: ground
+    4300012: plateu
+    4300014: Cylinder
+    4300016: Cylinder_2
+    4300018: Cylinder_3
+    4300020: Cylinder_4
+    4300022: Cylinder_5
+    4300024: rocks_3
+    4300026: rocks_4
+    4300028: rocks_5
+    4300030: rocks_6
+    4300032: rocks_7
+    4300034: ball
+    4300036: ball_2
+    4300038: ball_3
+    4300040: ball_4
+    4300042: ball_5
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

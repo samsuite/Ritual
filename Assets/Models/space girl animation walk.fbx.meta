@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 4ce48b57c412c7f4ab92907734099bab
+timeCreated: 1454208551
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone.002
+    100004: Bone.003
+    100006: Bone.005
+    100008: Bone.006
+    100010: Bone.007
+    100012: Bone.008
+    100014: Bone.009
+    100016: Bone.011
+    100018: Bone.012
+    100020: Bone.013
+    100022: Bone.013_end
+    100024: Bone.014
+    100026: Bone.015
+    100028: Bone.016
+    100030: Bone.016_end
+    100032: Bone.017
+    100034: Bone.017_end
+    100036: Bone.018
+    100038: Bone.018_end
+    100040: Camera
+    100042: Circle
+    100044: Circle.001
+    100046: Cube
+    100048: Empty
+    100050: Empty.001
+    100052: head
+    100054: hip left
+    100056: hip right
+    100058: Lamp
+    100060: Left Hair 1 Bone C
+    100062: Left Hair 1 Bone C_end
+    100064: Left Hair 3 Bone A
+    100066: Left hair 3 Bone C
+    100068: Left hair 3 Bone C_end
+    100070: Left Hiar 1 Bone A
+    100072: LEft Hiar 1 Bone B
+    100074: Left Hiar 2 BOne A
+    100076: Left Hiar 2 Bone B
+    100078: Left Hiar 2 Bone C
+    100080: Left Hiar 2 Bone C_end
+    100082: Left Hiar 3 Bone B
+    100084: main bone
+    100086: Right Hair  1 Bone A
+    100088: Right Hair 1 Bone B
+    100090: Right Hair 1 Bone C
+    100092: Right Hair 1 Bone C_end
+    100094: Right Hair 2 Bone A
+    100096: Right Hair 2 Bone B
+    100098: Right Hair 2 Bone C
+    100100: Right Hair 2 Bone C_end
+    100102: Right Hair 3 Bone B
+    100104: Right Hair 3 Bone C
+    100106: Right Hair 3 Bone C_end
+    100108: Right Hiar 3 Bone A
+    100110: //RootNode
+    400000: Armature
+    400002: Bone.002
+    400004: Bone.003
+    400006: Bone.005
+    400008: Bone.006
+    400010: Bone.007
+    400012: Bone.008
+    400014: Bone.009
+    400016: Bone.011
+    400018: Bone.012
+    400020: Bone.013
+    400022: Bone.013_end
+    400024: Bone.014
+    400026: Bone.015
+    400028: Bone.016
+    400030: Bone.016_end
+    400032: Bone.017
+    400034: Bone.017_end
+    400036: Bone.018
+    400038: Bone.018_end
+    400040: Camera
+    400042: Circle
+    400044: Circle.001
+    400046: Cube
+    400048: Empty
+    400050: Empty.001
+    400052: head
+    400054: hip left
+    400056: hip right
+    400058: Lamp
+    400060: Left Hair 1 Bone C
+    400062: Left Hair 1 Bone C_end
+    400064: Left Hair 3 Bone A
+    400066: Left hair 3 Bone C
+    400068: Left hair 3 Bone C_end
+    400070: Left Hiar 1 Bone A
+    400072: LEft Hiar 1 Bone B
+    400074: Left Hiar 2 BOne A
+    400076: Left Hiar 2 Bone B
+    400078: Left Hiar 2 Bone C
+    400080: Left Hiar 2 Bone C_end
+    400082: Left Hiar 3 Bone B
+    400084: main bone
+    400086: Right Hair  1 Bone A
+    400088: Right Hair 1 Bone B
+    400090: Right Hair 1 Bone C
+    400092: Right Hair 1 Bone C_end
+    400094: Right Hair 2 Bone A
+    400096: Right Hair 2 Bone B
+    400098: Right Hair 2 Bone C
+    400100: Right Hair 2 Bone C_end
+    400102: Right Hair 3 Bone B
+    400104: Right Hair 3 Bone C
+    400106: Right Hair 3 Bone C_end
+    400108: Right Hiar 3 Bone A
+    400110: //RootNode
+    2300000: Circle
+    2300002: Circle.001
+    3300000: Circle
+    3300002: Circle.001
+    4300000: Circle.001
+    4300002: Circle
+    4300004: Cube
+    7400000: Circle.001|Circle.001Action.001
+    7400002: Circle.001|Empty.001Action
+    7400004: Circle.001|EmptyAction
+    7400006: Empty.001|Circle.001Action.001
+    7400008: Empty.001|Empty.001Action
+    7400010: Empty.001|EmptyAction
+    7400012: Empty|Circle.001Action.001
+    7400014: Empty|Empty.001Action
+    7400016: Empty|EmptyAction
+    7400018: Armature|ArmatureAction
+    7400020: Armature|Circle.001Action.001
+    7400022: Armature|Empty.001Action
+    7400024: Armature|EmptyAction
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
